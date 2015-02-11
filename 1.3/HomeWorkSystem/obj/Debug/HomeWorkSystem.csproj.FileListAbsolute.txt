@@ -1,0 +1,6 @@
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\HomeWorkSystem\HomeWorkSystem\bin\Debug\HomeWorkSystem.exe.config
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\HomeWorkSystem\HomeWorkSystem\bin\Debug\HomeWorkSystem.exe
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\HomeWorkSystem\HomeWorkSystem\bin\Debug\HomeWorkSystem.pdb
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\HomeWorkSystem\HomeWorkSystem\obj\Debug\HomeWorkSystem.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\HomeWorkSystem\HomeWorkSystem\obj\Debug\HomeWorkSystem.exe
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\HomeWorkSystem\HomeWorkSystem\obj\Debug\HomeWorkSystem.pdb
